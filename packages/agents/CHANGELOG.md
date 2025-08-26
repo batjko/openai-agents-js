@@ -1,5 +1,20 @@
 # @openai/agents
 
+## 0.0.18
+
+### Patch Changes
+
+- 2260e21: Upgrade openai package to the latest version
+- Updated dependencies [2260e21]
+- Updated dependencies [94f606c]
+- Updated dependencies [8cf5356]
+- Updated dependencies [47a28ad]
+- Updated dependencies [8fc01fc]
+- Updated dependencies [6f1677c]
+  - @openai/agents-openai@0.1.0
+  - @openai/agents-core@0.1.0
+  - @openai/agents-realtime@0.1.0
+
 ## 0.0.17
 
 ### Patch Changes
